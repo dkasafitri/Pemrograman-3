@@ -1,0 +1,12 @@
+package project.belajar.jtable;
+
+public class Mahasiswa
+{
+    private String npm;
+    private String nama;
+
+    public String getNpm()
+    {
+        return this.npm;
+    }
+}
